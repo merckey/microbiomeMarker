@@ -20,7 +20,7 @@ License: GPL-3
 biocViews: Metagenomics, Microbiome, DifferentialExpression
 URL: https://github.com/yiluheihei/microbiomeMarker
 BugReports: https://github.com/yiluheihei/microbiomeMarker/issues
-Depends: R (>= 4.1.0)
+Depends: R
 Imports: 
     dplyr,
     phyloseq,
